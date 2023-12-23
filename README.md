@@ -3,6 +3,7 @@
 ## Education 
 
 Accountancy, BAcc, Nanyang Technology University (Singapore), 2020
+
 Accountancy, MSA, University of Illinois Urbana-Champaign (USA), Current 
 
 
