@@ -2,19 +2,8 @@
 From 🇸🇬, living in 🗾
 
 
-
-## 🏫
-
-
-
-Accountancy, BAcc, Nanyang Technological University 🇸🇬, 2020
-
-
-Accountancy, MSA, University of Illinois Urbana Champaign 🌎, current
-
-
-
-## 🏢
+## Working on 💻
+- 🌏Working on earthquake analysis and prediction using various machine learning models 
 
 
 
