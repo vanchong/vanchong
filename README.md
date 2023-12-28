@@ -7,5 +7,3 @@ From 🇸🇬, living in 🗾
 
 
 ## 🧰 Languages and Tools
-
-
